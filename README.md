@@ -1,5 +1,6 @@
 <img align="right" src="https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,32">
-<h1> 4Geeks Academy's Interactive Tutorials</h1>
+
+# 4Geeks Academy's Interactive Tutorials
 
 > By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](https://github.com/4GeeksAcademy/Interactive-Tutorials/graphs/contributors) at [4Geeks Academy](http://4geeksacademy.co/)
 
