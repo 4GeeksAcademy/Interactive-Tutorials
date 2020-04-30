@@ -1,6 +1,6 @@
 # 📚 4Geeks Academy's Interactive Tutorials
 
-All courses and tutorials are 👆 interactive, ✅ auto-graded and with. 📹 video solutions. [Request a new tutorial](https://github.com/4GeeksAcademy/About-4Geeks-Academy/issues/new) or [collaborate](https://github.com/4GeeksAcademy/About-4Geeks-Academy/labels/help%20wanted).
+All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 video solutions. [Request a new tutorial](https://github.com/4GeeksAcademy/About-4Geeks-Academy/issues/new) or [collaborate](https://github.com/4GeeksAcademy/About-4Geeks-Academy/labels/help%20wanted).
 
 ### HTML/CSS
 
