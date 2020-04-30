@@ -22,19 +22,23 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
 
 <details>
 <summary>Click to expand</summary>
+  
 1. [The Terminal Challenge (1 hr)](https://github.com/breatheco-de/exercise-terminal-challenge)
 2. [Git Interative Tutorial (4 hrs)](https://github.com/4GeeksAcademy/git-interactive-tutorial)
 3. [Kill The Bug (for kids)](https://github.com/4GeeksAcademy/kill-the-bug)
 4. [Making a Drone Dance (for kids)](https://github.com/4GeeksAcademy/ultimate-drone-dance)
+
 </details>
 
 ### HTML/CSS
 
 <details>
 <summary>Click to expand</summary>
+  
 1. [Learn HTML (10 hrs)](https://github.com/4GeeksAcademy/html-tutorial-exercises-course)
 2. [Learn CSS (10 hrs)](https://github.com/4GeeksAcademy/css-tutorial-exercises-course)
 3. [Learn Bootstrap (10 hrs)](https://github.com/4GeeksAcademy/bootstrap-exercises-tutorial)
+
 </details>
 
 ### Python 
