@@ -1,45 +1,26 @@
-<table>
-  <tr>
-    <td><img src="https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,32"></td>
-    <td>
-      <h1> 4Geeks Academy's Interactive Tutorials</h1>
-      <p>By <a href="https://twitter.com/alesanchezr">@alesanchezr</a> and <a href="https://github.com/4GeeksAcademy/Interactive-Tutorials/graphs/contributors">other contributors</a> at <a href="http://4geeksacademy.co/">4Geeks Academy</a></p>
-      <img src="https://img.shields.io/github/last-commit/4geeksacademy/Interactive-Tutorials" />
-      <a href="https://breatheco.de"><img src="https://img.shields.io/badge/build_by-Developers-blue" /></a>
-      <a href="https://twitter.com/4geeksacademy"><img src="https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter" alt="follow on Twitter"></a>
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,32">
+<h1> 4Geeks Academy's Interactive Tutorials</h1>
 
+> By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](https://github.com/4GeeksAcademy/Interactive-Tutorials/graphs/contributors) at [4Geeks Academy](http://4geeksacademy.co/)
+
+![last commit](https://img.shields.io/github/last-commit/4geeksacademy/Interactive-Tutorials)
+[![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://breatheco.de)
+[![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
 All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 video solutions. [Request a new tutorial](https://github.com/4GeeksAcademy/About-4Geeks-Academy/issues/new) or [collaborate](https://github.com/4GeeksAcademy/About-4Geeks-Academy/labels/help%20wanted).
 
-
-
-
-
 ### Before coding
 
-<details>
-<summary>Click to expand</summary>
-  
 1. [The Terminal Challenge (1 hr)](https://github.com/breatheco-de/exercise-terminal-challenge)
 2. [Git Interative Tutorial (4 hrs)](https://github.com/4GeeksAcademy/git-interactive-tutorial)
 3. [Kill The Bug (for kids)](https://github.com/4GeeksAcademy/kill-the-bug)
 4. [Making a Drone Dance (for kids)](https://github.com/4GeeksAcademy/ultimate-drone-dance)
 
-</details>
-
 ### HTML/CSS
-
-<details>
-<summary>Click to expand</summary>
   
 1. [Learn HTML (10 hrs)](https://github.com/4GeeksAcademy/html-tutorial-exercises-course)
 2. [Learn CSS (10 hrs)](https://github.com/4GeeksAcademy/css-tutorial-exercises-course)
 3. [Learn Bootstrap (10 hrs)](https://github.com/4GeeksAcademy/bootstrap-exercises-tutorial)
-
-</details>
 
 ### Python 
 
