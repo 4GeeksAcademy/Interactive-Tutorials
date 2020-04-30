@@ -1,4 +1,16 @@
-# 📚 4Geeks Academy's Interactive Tutorials
+<table>
+  <tr>
+    <td><img src="https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,32"></td>
+    <td>
+      <h1> 4Geeks Academy's Interactive Tutorials</h1>
+      <p>By <a href="https://twitter.com/alesanchezr">@alesanchezr</a> and <a href="https://github.com/4GeeksAcademy/Interactive-Tutorials/graphs/contributors">other contributors</a> at <a href="http://4geeksacademy.co/">4Geeks Academy</a></p>
+      <img src="https://img.shields.io/github/last-commit/4geeksacademy/Interactive-Tutorials" />
+      <a href="https://breatheco.de"><img src="https://img.shields.io/badge/build_by-Developers-blue" /></a>
+      <a href="https://twitter.com/4geeksacademy"><img src="https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter" alt="follow on Twitter"></a>
+    </td>
+  </tr>
+</table>
+
 
 All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 video solutions. [Request a new tutorial](https://github.com/4GeeksAcademy/About-4Geeks-Academy/issues/new) or [collaborate](https://github.com/4GeeksAcademy/About-4Geeks-Academy/labels/help%20wanted).
 
