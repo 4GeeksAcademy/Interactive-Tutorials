@@ -37,6 +37,10 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
 2. [Looping with Javascript (30 hrs)](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial)
 3. [Javascript Functions (10 hrs)](https://github.com/4GeeksAcademy/javascript-functions-exercises-tutorial)
 
+### Databases
+
+1. [Learn SQL (4hr)](https://sqlbolt.com/lesson/select_queries_introduction)
+
 ### Java (under development) 
 
 1. [Java for Beginners (30 hrs)](https://github.com/4GeeksAcademy/java-beginner-exercises)
