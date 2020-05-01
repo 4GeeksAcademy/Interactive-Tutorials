@@ -1,4 +1,4 @@
-<img align="right" src="https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,32">
+<img align="right" src="https://raw.githubusercontent.com/4GeeksAcademy/Interactive-Tutorials/006d393c5ec5e1acb65852535ac205b8c3668219/badge.svg">
 
 # 4Geeks Academy's Interactive Tutorials
 
