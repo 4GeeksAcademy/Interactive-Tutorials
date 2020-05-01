@@ -1,6 +1,6 @@
-<img height="280" align="right" src="https://raw.githubusercontent.com/4GeeksAcademy/Interactive-Tutorials/006d393c5ec5e1acb65852535ac205b8c3668219/badge.svg">
-
 # 4Geeks Academy's Interactive Tutorials
+
+<img height="280" align="right" src="https://raw.githubusercontent.com/4GeeksAcademy/Interactive-Tutorials/006d393c5ec5e1acb65852535ac205b8c3668219/badge.svg">
 
 > By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](https://github.com/4GeeksAcademy/Interactive-Tutorials/graphs/contributors) at [4Geeks Academy](http://4geeksacademy.co/)
 
