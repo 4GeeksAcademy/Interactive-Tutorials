@@ -1,4 +1,4 @@
-# Contributing
+# Submitting a new video tutorial
 
 If you would like to add a new interactive tutorial to this list please follow these guidelines:
 
