@@ -15,8 +15,6 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
 1. [The Terminal Challenge (1 hr)](https://github.com/breatheco-de/exercise-terminal-challenge)
 2. [Git Interative Tutorial (4 hrs)](https://github.com/4GeeksAcademy/git-interactive-tutorial)
 3. [Learn Markdown (10 min)](https://commonmark.org/help/tutorial/)
-4. [Kill The Bug (for kids)](https://github.com/4GeeksAcademy/kill-the-bug)
-5. [Making a Drone Dance (for kids)](https://github.com/4GeeksAcademy/ultimate-drone-dance)
 
 ### HTML/CSS
   
@@ -45,6 +43,11 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
 ### Java (under development) 
 
 1. [Java for Beginners (30 hrs)](https://github.com/4GeeksAcademy/java-beginner-exercises)
+
+### For interactive events
+
+1. [Kill The Bug (for events)](https://github.com/4GeeksAcademy/kill-the-bug)
+2. [Making a Drone Dance (for events)](https://github.com/4GeeksAcademy/ultimate-drone-dance)
 
 ## What next? 
 
