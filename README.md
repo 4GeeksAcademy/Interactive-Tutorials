@@ -30,11 +30,12 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
 4. [Master Python (50 hrs)](https://github.com/4GeeksAcademy/master-python-programming-exercises)
 5. [Python API Requests (10 hrs)](https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises)
 
-### Javascript 
+### Javascript & React
 
 1. [Javascript for Beginners (20 hrs)](https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial)
 2. [Looping with Javascript (30 hrs)](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial)
 3. [Javascript Functions (10 hrs)](https://github.com/4GeeksAcademy/javascript-functions-exercises-tutorial)
+4. [Learn React (8 hrs)](https://github.com/4GeeksAcademy/react-tutorial-exercises)
 
 ### Databases
 
