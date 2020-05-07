@@ -36,6 +36,7 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
 2. [Looping with Javascript (30 hrs)](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial)
 3. [Javascript Functions (10 hrs)](https://github.com/4GeeksAcademy/javascript-functions-exercises-tutorial)
 4. [Learn React.js (8 hrs)](https://github.com/4GeeksAcademy/react-tutorial-exercises)
+5. [React Tutorial](https://react-tutorial.app/app.html)
 
 ### Databases
 
