@@ -21,6 +21,8 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
 1. [Learn HTML (10 hrs)](https://github.com/4GeeksAcademy/html-tutorial-exercises-course)
 2. [Learn CSS (10 hrs)](https://github.com/4GeeksAcademy/css-tutorial-exercises-course)
 3. [Learn Bootstrap (10 hrs)](https://github.com/4GeeksAcademy/bootstrap-exercises-tutorial)
+4. [Introduction to The DOM](https://github.com/4GeeksAcademy/javascript-dom-tutorial-exercises)
+5. [Javascript Events inside The DOM](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises)
 
 ### Python 
 
