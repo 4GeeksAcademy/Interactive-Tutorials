@@ -16,7 +16,7 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
 2. [Git Interative Tutorial (4 hrs)](https://github.com/4GeeksAcademy/git-interactive-tutorial)
 3. [Learn Markdown (10 min)](https://commonmark.org/help/tutorial/)
 
-### HTML/CSS
+### HTML/CSS & The DOM
   
 1. [Learn HTML (10 hrs)](https://github.com/4GeeksAcademy/html-tutorial-exercises-course)
 2. [Learn CSS (10 hrs)](https://github.com/4GeeksAcademy/css-tutorial-exercises-course)
