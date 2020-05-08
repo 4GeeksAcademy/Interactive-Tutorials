@@ -32,11 +32,11 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
 
 ### Javascript & React
 
-1. [Javascript for Beginners (20 hrs)](https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial)
-2. [Looping with Javascript (30 hrs)](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial)
-3. [Javascript Functions (10 hrs)](https://github.com/4GeeksAcademy/javascript-functions-exercises-tutorial)
-4. [Learn React.js (8 hrs)](https://github.com/4GeeksAcademy/react-tutorial-exercises)
-5. [React Tutorial](https://react-tutorial.app/app.html)
+1. [Javascript for Beginners (8 hrs)](https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial)
+2. [Looping with Javascript (8 hrs)](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial)
+3. [Javascript Functions (2 hrs)](https://github.com/4GeeksAcademy/javascript-functions-exercises-tutorial)
+4. [Learn React.js (3 hrs)](https://github.com/4GeeksAcademy/react-tutorial-exercises)
+5. [Build a shopping app with React (2 hrs)](https://react-tutorial.app/app.html)
 
 ### Databases
 
@@ -44,7 +44,7 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
 
 ### Java (under development) 
 
-1. [Java for Beginners (30 hrs)](https://github.com/4GeeksAcademy/java-beginner-exercises)
+1. [Java for Beginners (8 hrs)](https://github.com/4GeeksAcademy/java-beginner-exercises)
 
 ### For interactive events
 
