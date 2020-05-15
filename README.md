@@ -21,10 +21,11 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
   
 1. [Learn HTML (10 hrs)](https://github.com/4GeeksAcademy/html-tutorial-exercises-course)
 2. [Learn CSS (10 hrs)](https://github.com/4GeeksAcademy/css-tutorial-exercises-course)
-3. [Practice only selectors with this CSS Diner game](https://flukeout.github.io/)
-4. [Learn Bootstrap (10 hrs)](https://github.com/4GeeksAcademy/bootstrap-exercises-tutorial)
-5. [Introduction to The DOM](https://github.com/4GeeksAcademy/javascript-dom-tutorial-exercises)
-6. [Javascript Events inside The DOM](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises)
+3. [HTML5 Forms (10 hrs)](https://github.com/4GeeksAcademy/html-forms-tutorial-exercises)
+4. [Practice only selectors with this CSS Diner game](https://flukeout.github.io/)
+5. [Learn Bootstrap (10 hrs)](https://github.com/4GeeksAcademy/bootstrap-exercises-tutorial)
+6. [Introduction to The DOM](https://github.com/4GeeksAcademy/javascript-dom-tutorial-exercises)
+7. [Javascript Events inside The DOM](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises)
 
 ### Python 
 
