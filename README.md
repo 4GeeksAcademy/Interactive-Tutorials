@@ -19,43 +19,43 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
 
 ### HTML/CSS & The DOM
   
-1. [Learn HTML (10 hrs)](https://github.com/4GeeksAcademy/html-tutorial-exercises-course)
-2. [HTML5 Forms (10 hrs)](https://github.com/4GeeksAcademy/html-forms-tutorial-exercises)
-3. [Learn CSS (10 hrs)](https://github.com/4GeeksAcademy/css-tutorial-exercises-course)
-4. [Learn CSS Layouts (4 hrs)](https://github.com/4GeeksAcademy/css-layouts-tutorial-exercises)
-5. [Practice only selectors with this CSS Diner game](https://flukeout.github.io/)
-6. [Learn Bootstrap (10 hrs)](https://github.com/4GeeksAcademy/bootstrap-exercises-tutorial)
-7. [Introduction to The DOM (4 hrs)](https://github.com/4GeeksAcademy/javascript-dom-tutorial-exercises)
-8. [Events inside The DOM (4 hrs)](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises)
-
-### Python 
-
-1. [Python for Beginners (20 hrs)](https://github.com/4GeeksAcademy/python-beginner-programming-exercises)
-2. [Practice Looping Lists and Tuples (30 hrs)](https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises)
-3. [Practice functions (10 hrs)](https://github.com/4GeeksAcademy/python-functions-programming-exercises)
-4. [Master Python (50 hrs)](https://github.com/4GeeksAcademy/master-python-programming-exercises)
-5. [Python API Requests (10 hrs)](https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises)
+4. [Learn HTML (10 hrs)](https://github.com/4GeeksAcademy/html-tutorial-exercises-course)
+5. [HTML5 Forms (10 hrs)](https://github.com/4GeeksAcademy/html-forms-tutorial-exercises)
+6. [Learn CSS (10 hrs)](https://github.com/4GeeksAcademy/css-tutorial-exercises-course)
+7. [Learn CSS Layouts (4 hrs)](https://github.com/4GeeksAcademy/css-layouts-tutorial-exercises)
+8. [Practice only selectors with this CSS Diner game](https://flukeout.github.io/)
+9. [Learn Bootstrap (10 hrs)](https://github.com/4GeeksAcademy/bootstrap-exercises-tutorial)
+10. [Introduction to The DOM (4 hrs)](https://github.com/4GeeksAcademy/javascript-dom-tutorial-exercises)
+11. [Events inside The DOM (4 hrs)](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises)
 
 ### Javascript & React
 
-1. [Javascript for Beginners (8 hrs)](https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial)
-2. [Looping with Javascript (8 hrs)](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial)
-3. [Javascript Functions (2 hrs)](https://github.com/4GeeksAcademy/javascript-functions-exercises-tutorial)
-4. [Learn React.js (3 hrs)](https://github.com/4GeeksAcademy/react-tutorial-exercises)
-5. [Build a shopping app with React (2 hrs)](https://react-tutorial.app/app.html)
+12. [Javascript for Beginners (8 hrs)](https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial)
+13. [Looping with Javascript (8 hrs)](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial)
+14. [Javascript Functions (2 hrs)](https://github.com/4GeeksAcademy/javascript-functions-exercises-tutorial)
+15. [Learn React.js (3 hrs)](https://github.com/4GeeksAcademy/react-tutorial-exercises)
+16. [Build a shopping app with React (2 hrs)](https://react-tutorial.app/app.html)
+
+### Python 
+
+17. [Python for Beginners (20 hrs)](https://github.com/4GeeksAcademy/python-beginner-programming-exercises)
+18. [Practice Looping Lists and Tuples (30 hrs)](https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises)
+19. [Practice functions (10 hrs)](https://github.com/4GeeksAcademy/python-functions-programming-exercises)
+20. [Master Python (50 hrs)](https://github.com/4GeeksAcademy/master-python-programming-exercises)
+21. [Python API Requests (10 hrs)](https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises)
 
 ### Databases
 
-1. [Learn SQL (4hr)](https://sqlbolt.com/lesson/select_queries_introduction)
+22. [Learn SQL (4hr)](https://sqlbolt.com/lesson/select_queries_introduction)
 
 ### Java (under development) 
 
-1. [Java for Beginners (8 hrs)](https://github.com/4GeeksAcademy/java-beginner-exercises)
+23. [Java for Beginners (8 hrs)](https://github.com/4GeeksAcademy/java-beginner-exercises)
 
 ### For interactive events
 
-1. [Kill The Bug (for events)](https://github.com/4GeeksAcademy/kill-the-bug)
-2. [Making a Drone Dance (for events)](https://github.com/4GeeksAcademy/ultimate-drone-dance)
+- [Kill The Bug (for events)](https://github.com/4GeeksAcademy/kill-the-bug)
+- [Making a Drone Dance (for events)](https://github.com/4GeeksAcademy/ultimate-drone-dance)
 
 ## What next? 
 
