@@ -11,11 +11,6 @@ By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](http
 
 All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 video solutions. [Request a new tutorial](https://github.com/4GeeksAcademy/About-4Geeks-Academy/issues/new), [help us build new ones](https://github.com/4GeeksAcademy/About-4Geeks-Academy/labels/help%20wanted) or [submit a new tutorial](https://github.com/4GeeksAcademy/Interactive-Tutorials/blob/master/CONTRIBUTING.md).
 
-### Before coding
-
-- [Git Interative Tutorial (4 hrs)](https://github.com/4GeeksAcademy/git-interactive-tutorial)
-- [Learn Markdown (10 min)](https://commonmark.org/help/tutorial/)
-
 ### HTML/CSS & The DOM
   
 - [Learn HTML (10 hrs)](https://github.com/4GeeksAcademy/html-tutorial-exercises-course)
@@ -50,6 +45,11 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
 ### Java (under development) 
 
 - [Java for Beginners (8 hrs)](https://github.com/4GeeksAcademy/java-beginner-exercises)
+
+### Before coding
+
+- [Git Interative Tutorial (4 hrs)](https://github.com/4GeeksAcademy/git-interactive-tutorial)
+- [Learn Markdown (10 min)](https://commonmark.org/help/tutorial/)
 
 ### For interactive events
 
