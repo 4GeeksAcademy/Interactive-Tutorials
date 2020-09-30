@@ -37,6 +37,7 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
 - [Practice functions (10 hrs)](https://github.com/4GeeksAcademy/python-functions-programming-exercises)
 - [Master Python (50 hrs)](https://github.com/4GeeksAcademy/master-python-programming-exercises)
 - [Python API Requests (10 hrs)](https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises)
+- [Build API's with Python Fask](https://github.com/breatheco-de/python-flask-api-tutorial)
 
 ### Databases
 
