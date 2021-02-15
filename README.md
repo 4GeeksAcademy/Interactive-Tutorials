@@ -27,6 +27,8 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
 - [Javascript for Beginners (8 hrs)](https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial)
 - [Looping with Javascript (8 hrs)](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial)
 - [Javascript Functions (2 hrs)](https://github.com/4GeeksAcademy/javascript-functions-exercises-tutorial)
+- [Object Oriented Programmming](https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises)
+- [Master Javascript (50 hrs)](https://github.com/4GeeksAcademy/master-javascript-programming-exercises)
 - [Learn React.js (3 hrs)](https://github.com/4GeeksAcademy/react-tutorial-exercises)
 - [Build a shopping app with React (2 hrs)](https://react-tutorial.app/app.html)
 
@@ -37,7 +39,7 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
 - [Practice functions (10 hrs)](https://github.com/4GeeksAcademy/python-functions-programming-exercises)
 - [Master Python (50 hrs)](https://github.com/4GeeksAcademy/master-python-programming-exercises)
 - [Python API Requests (10 hrs)](https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises)
-- [Build API's with Python Fask](https://github.com/breatheco-de/python-flask-api-tutorial)
+- [Build API's with Python Flask](https://github.com/breatheco-de/python-flask-api-tutorial)
 
 ### Databases
 
