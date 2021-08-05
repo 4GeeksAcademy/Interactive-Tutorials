@@ -32,6 +32,7 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
 - [Master Javascript with 150 exercises (50 hrs)](https://github.com/4GeeksAcademy/master-javascript-programming-exercises)
 - [Learn React.js (3 hrs)](https://github.com/4GeeksAcademy/react-tutorial-exercises)
 - [Build a shopping app with React (2 hrs)](https://react-tutorial.app/app.html)
+- [Unit testing with Jest (2 hrs)](https://github.com/breatheco-de/exercise-unit-test-with-jest)
 
 ### Python 
 
