@@ -9,7 +9,7 @@ By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](http
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://breatheco.de)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
-All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 video solutions. [Request a new tutorial](https://github.com/4GeeksAcademy/About-4Geeks-Academy/issues/new), [help us build new ones](https://github.com/4GeeksAcademy/About-4Geeks-Academy/labels/help%20wanted) or [submit a new tutorial](https://github.com/4GeeksAcademy/Interactive-Tutorials/blob/master/CONTRIBUTING.md).
+All courses and tutorials are 👆 interactive, ✅ auto-graded, and with 📹 video solutions. [Request a new tutorial](https://github.com/4GeeksAcademy/About-4Geeks-Academy/issues/new), [help us build new ones](https://github.com/4GeeksAcademy/About-4Geeks-Academy/labels/help%20wanted) or [submit a new tutorial](https://github.com/4GeeksAcademy/Interactive-Tutorials/blob/master/CONTRIBUTING.md).
 
 ### HTML/CSS & The DOM
   
