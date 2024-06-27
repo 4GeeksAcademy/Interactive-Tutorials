@@ -13,7 +13,7 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
 
 ### HTML/CSS & The DOM
   
-- [Build a postcard using HTML/CSS](https://github.com/breatheco-de/exercise-postcard)
+- [Build a postcard using HTML/CSS (2 hrs)](https://github.com/breatheco-de/exercise-postcard)
 - [Learn HTML (10 hrs)](https://github.com/4GeeksAcademy/html-tutorial-exercises-course)
 - [HTML5 Forms (10 hrs)](https://github.com/4GeeksAcademy/html-forms-tutorial-exercises)
 - [Learn CSS (10 hrs)](https://github.com/4GeeksAcademy/css-tutorial-exercises-course)
