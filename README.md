@@ -16,7 +16,7 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
 - [Build a postcard using HTML/CSS (2 hrs)](https://github.com/breatheco-de/exercise-postcard)
 - [Learn HTML (8 hrs)](https://github.com/4GeeksAcademy/html-tutorial-exercises-course)
 - [HTML5 Forms (2 hrs)](https://github.com/4GeeksAcademy/html-forms-tutorial-exercises)
-- [Learn CSS (10 hrs)](https://github.com/4GeeksAcademy/css-tutorial-exercises-course)
+- [Learn CSS (6 hrs)](https://github.com/4GeeksAcademy/css-tutorial-exercises-course)
 - [Learn CSS Layouts (4 hrs)](https://github.com/4GeeksAcademy/css-layouts-tutorial-exercises)
 - [Practice only selectors with this CSS Dinner game](https://flukeout.github.io/)
 - [Learn Bootstrap (10 hrs)](https://github.com/4GeeksAcademy/bootstrap-exercises-tutorial)
