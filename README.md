@@ -20,8 +20,8 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
 - [Learn CSS Layouts (5 hrs)](https://github.com/4GeeksAcademy/css-layouts-tutorial-exercises)
 - [Practice only selectors with this CSS Dinner game](https://flukeout.github.io/)
 - [Learn Bootstrap (6 hrs)](https://github.com/4GeeksAcademy/bootstrap-exercises-tutorial)
-- [Introduction to The DOM (4 hrs)](https://github.com/4GeeksAcademy/javascript-dom-tutorial-exercises)
-- [Events inside The DOM (4 hrs)](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises)
+- [Introduction to The DOM (6 hrs)](https://github.com/4GeeksAcademy/javascript-dom-tutorial-exercises)
+- [Events inside The DOM (5 hrs)](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises)
 
 ### Javascript & React
 
