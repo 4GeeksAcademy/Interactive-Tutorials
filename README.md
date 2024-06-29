@@ -50,6 +50,10 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
 
 - [Learn SQL (4hr)](https://sqlbolt.com/lesson/select_queries_introduction)
 
+### Servers
+
+- [Installing Apache and WordPress (LAMP) in 2 hrs](https://github.com/breatheco-de/deploying-wordpress-debian)
+
 ### Java (under development) 
 
 - [Java for Beginners (8 hrs)](https://github.com/4GeeksAcademy/java-beginner-exercises)
