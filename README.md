@@ -1,4 +1,4 @@
-# 4Geeks Academy's Interactive Tutorials
+# Interactive Coding Tutorials
 
 <a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://raw.githubusercontent.com/4GeeksAcademy/Interactive-Tutorials/006d393c5ec5e1acb65852535ac205b8c3668219/badge.svg"></a>
 
