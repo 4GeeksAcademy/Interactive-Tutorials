@@ -44,7 +44,7 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
 - [Python API Requests (10 hrs)](https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises)
 - [Build API's with Python Flask](https://github.com/breatheco-de/python-flask-api-tutorial)
 - [Introducion to pandas](https://github.com/4GeeksAcademy/python-pandas-tutorial)
-- [Introduction to Numpy](https://github.com/4GeeksAcademy/numpy-100)
+- [Introduction to Numpy](https://github.com/4GeeksAcademy/numpy-tutorial-exercises)
 
 ### Databases
 
