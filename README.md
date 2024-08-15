@@ -11,6 +11,10 @@ By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](http
 
 All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 video solutions. [Request a new tutorial](https://github.com/4GeeksAcademy/About-4Geeks-Academy/issues/new), [help us build new ones](https://github.com/4GeeksAcademy/About-4Geeks-Academy/labels/help%20wanted) or [submit a new tutorial](https://github.com/4GeeksAcademy/Interactive-Tutorials/blob/master/CONTRIBUTING.md).
 
+### Artificial Inteligence
+
+- [Prompt Engineering (2 hrs)](https://github.com/breatheco-de/prompt-engineering-exercise-course)
+
 ### HTML/CSS & The DOM
   
 - [Build a postcard using HTML/CSS (2 hrs)](https://github.com/breatheco-de/exercise-postcard)
