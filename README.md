@@ -15,6 +15,10 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
 
 - [Prompt Engineering (2 hrs)](https://github.com/breatheco-de/prompt-engineering-exercise-course)
 
+### Cybersecurity
+
+- [🕵️‍♂️ OWASP Top 10 Cybersecurity Attacks](https://github.com/breatheco-de/owasp-top10-exercises)
+
 ### HTML/CSS & The DOM
   
 - [Build a postcard using HTML/CSS (2 hrs)](https://github.com/breatheco-de/exercise-postcard)
