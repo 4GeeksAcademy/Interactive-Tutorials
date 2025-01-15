@@ -53,6 +53,8 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
 - [Build API's with Python Flask](https://github.com/breatheco-de/python-flask-api-tutorial)
 - [Introducion to pandas](https://github.com/4GeeksAcademy/python-pandas-tutorial)
 - [Introduction to Numpy](https://github.com/4GeeksAcademy/numpy-tutorial-exercises)
+- [Object Oriented Tutorial](https://github.com/breatheco-de/python-oop-tutorial)
+- [How to use python modules](https://github.com/breatheco-de/python-modules-tutorial)
 
 ### Databases
 
