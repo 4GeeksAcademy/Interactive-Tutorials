@@ -36,6 +36,7 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
 - [Javascript for Beginners (8 hrs)](https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial)
 - [Looping with Javascript (8 hrs)](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial)
 - [Javascript Functions (2 hrs)](https://github.com/4GeeksAcademy/javascript-functions-exercises-tutorial)
+- [Javascript Event-Driven Programming (2 hrs)](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises)
 - [Object Oriented Programming is Javascript](https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises)
 - [Master Javascript with 150 exercises (50 hrs)](https://github.com/4GeeksAcademy/master-javascript-programming-exercises)
 - [Learn React.js (3 hrs)](https://github.com/4GeeksAcademy/react-tutorial-exercises)
