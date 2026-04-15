@@ -71,7 +71,7 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
 
 ### Before coding
 
-- [Git Interative Tutorial (4 hrs)](https://github.com/4GeeksAcademy/git-interactive-tutorial)
+- [Git Interactive Tutorial (4 hrs)](https://github.com/4GeeksAcademy/git-interactive-tutorial)
 - [Learn Markdown (10 min)](https://commonmark.org/help/tutorial/)
 
 ### For interactive events
