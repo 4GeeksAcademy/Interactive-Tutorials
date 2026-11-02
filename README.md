@@ -43,6 +43,7 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
 - [Build a shopping app with React (2 hrs)](https://react-tutorial.app/app.html)
 - [Unit testing with Jest (2 hrs)](https://github.com/breatheco-de/exercise-unit-test-with-jest)
 - [Build API's with Node Express](https://github.com/4GeeksAcademy/node-api-tutorial)
+- [Interview Challenge Javascript](https://github.com/breatheco-de/interview-coding-challenge-javascript)
 
 ### Python 
 
