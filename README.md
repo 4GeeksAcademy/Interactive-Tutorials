@@ -11,7 +11,7 @@ By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](http
 
 All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 video solutions. [Request a new tutorial](https://github.com/4GeeksAcademy/About-4Geeks-Academy/issues/new), [help us build new ones](https://github.com/4GeeksAcademy/About-4Geeks-Academy/labels/help%20wanted) or [submit a new tutorial](https://github.com/4GeeksAcademy/Interactive-Tutorials/blob/master/CONTRIBUTING.md).
 
-### Artificial Inteligence
+### Artificial Intelligence
 
 - [Prompt Engineering (2 hrs)](https://github.com/breatheco-de/prompt-engineering-exercise-course)
 
@@ -53,7 +53,7 @@ All courses and tutorials are 👆 interactive, ✅ auto-graded and with 📹 vi
 - [Master Python (50 hrs)](https://github.com/4GeeksAcademy/master-python-programming-exercises)
 - [Python API Requests (10 hrs)](https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises)
 - [Build API's with Python Flask](https://github.com/breatheco-de/python-flask-api-tutorial)
-- [Introducion to pandas](https://github.com/4GeeksAcademy/python-pandas-tutorial)
+- [Introduction to pandas](https://github.com/4GeeksAcademy/python-pandas-tutorial)
 - [Introduction to Numpy](https://github.com/4GeeksAcademy/numpy-tutorial-exercises)
 - [Object Oriented Tutorial](https://github.com/breatheco-de/python-oop-tutorial)
 - [How to use python modules](https://github.com/breatheco-de/python-modules-tutorial)
